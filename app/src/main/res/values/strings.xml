@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="create_folder">新建文件夹</string>
+    <string name="create_hint">文件夹名称/文件名称</string>
+    <string name="create_file">新建文件</string>
+    <string name="radio_currentpath">当前目录下搜索</string>
+    <string name="radio_wholepath">全部目录搜索</string>
+    <string name="edit_search_hint">文件或者文件夹名称</string>
+    <string name="button_refer">保存</string>
+    <string name="button_back">取消</string>
+</resources>
